@@ -1,16 +1,14 @@
-### Hi there 👋
+![Header](https://i.imgur.com/iMep4aP.png)
 
-<!--
-**Dinoosawruss/Dinoosawruss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Hi, my name is Michael 👋
 
-Here are some ideas to get you started:
+I mostly work with Python and I really enjoy making Discord.py bots, I also work with C# and Front-End Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My GitHub Stats 📊
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dinoosawruss&count_private=true&show_icons=true)
+
+### Languages I work with
+*This is based purely on GitHub repositories*
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoosawruss&layout=compact)
