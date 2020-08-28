@@ -15,6 +15,5 @@ I mostly work with Python and I really enjoy making Discord.py bots, I also work
 
 <details>
   <summary>Languages I work with 💻</summary>
-  *This is based purely on GitHub repositories*
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoosawruss&layout=compact)
 </details>
