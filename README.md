@@ -2,7 +2,8 @@
 
 ---
 ### Hi, my name is Michael 👋
-I mostly work with Python and I really enjoy making Discord.py bots, I also work with C# and Front-End Web Development.
+I am currently studying A-Levels in Computer Science, Maths, Politics and Law at sixth form,
+I mostly work with Python and I really enjoy making Discord.py bots, I also work with C# and Front-End Web Development however, I am using C# much more now as it is the language we primarily focus on at college.
 
 
 <img src="https://komarev.com/ghpvc/?username=dinoosawruss" alt="dinoosawruss" /> 
