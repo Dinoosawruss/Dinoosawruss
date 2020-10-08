@@ -23,7 +23,7 @@ In the future I wish to do a degree apprenticeship in Digital & Technology Solut
 </details>
 
 <details>
-  <summary>Events I've participated inn 📅</summary>
+  <summary>Events I've participated in 📅</summary>
   Hacktoberfest 2018 <br>
   Hacktoberfest 2019 <br>
   Hacktoberfest 2020
