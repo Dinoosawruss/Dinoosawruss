@@ -21,3 +21,10 @@ In the future I wish to do a degree apprenticeship in Digital & Technology Solut
   <summary>Languages I work with 💻</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoosawruss&layout=compact"/>
 </details>
+
+<details>
+  <summary>Events I've participated inn 📅</summary>
+  Hacktoberfest 2018 <br>
+  Hacktoberfest 2019 <br>
+  Hacktoberfest 2020
+</details>
