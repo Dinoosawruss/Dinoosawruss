@@ -11,7 +11,7 @@ In the future I wish to do a degree apprenticeship in Digital & Technology Solut
 
 <details>
   <summary>Things I want to learn 🏫</summary>
-  I always try and learn new things whether it be languages, technologies or libraries
+  I always try and learn new things whether it be languages, technologies or libraries <br>
   GoLang <br>
   Java <br>
   Raspberry Pi Clusters <br>
