@@ -5,7 +5,7 @@
 I am currently studying A-Levels in Computer Science, Maths, Politics and Law at sixth form,
 I mostly work with Python and I really enjoy making Discord.py bots, I also work with C# and Front-End Web Development however, I am using C# much more now as it is the language we primarily focus on at college.
 
-My biggest projects so far have been [StatMC](https://github.com/Dinoosawruss/StatMC) and [Automatic Smart Revise](https://github.com/Dinoosawruss/Automatic-Smart-Revise)
+My biggest projects so far have been [StatMC](https://github.com/Dinoosawruss/StatMC) and [Automatic Smart Revise (Archived)](https://github.com/Dinoosawruss/Automatic-Smart-Revise)
 
 I am currently working on [Learning C#](https://github.com/Dinoosawruss/Learning-CSharp) and [Preparing for the British Informatics Olympiad](https://github.com/Dinoosawruss/BIO-Practice)
 
