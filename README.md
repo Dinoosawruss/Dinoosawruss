@@ -39,5 +39,6 @@ In the future I wish to do a degree apprenticeship in Digital & Technology Solut
   Hacktoberfest 2018 <br>
   Hacktoberfest 2019 <br>
   Hacktoberfest 2020 <br>
-  Advent of Code 2020
+  Advent of Code 2020 <br>
+  British Informatics Olympiad 2021
 </details>
