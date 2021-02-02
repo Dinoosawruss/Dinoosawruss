@@ -21,8 +21,6 @@ In the future I wish to do a degree apprenticeship in Digital & Technology Solut
   More about cloud computing
 </details>
 
-<img src="https://komarev.com/ghpvc/?username=dinoosawruss" alt="dinoosawruss" /> 
-
 <details>
   <summary>My GitHub Stats 📊</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Dinoosawruss&count_private=true&show_icons=true"/>
