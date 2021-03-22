@@ -28,7 +28,7 @@ In the future I wish to do a degree apprenticeship in Digital & Technology Solut
 
 <details>
   <summary>Languages I work with 💻</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoosawruss&layout=compact"/>
+  <img src="https://wakatime.com/share/@Dinoosawruss/ecfdff99-821c-4e4f-9e9b-d822c6bf22fe.svg" width="60%"/>
 </details>
 
 <details>
