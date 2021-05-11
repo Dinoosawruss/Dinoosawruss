@@ -9,8 +9,6 @@ My biggest projects so far have been [StatMC](https://github.com/Dinoosawruss/St
 
 I am currently working on [Concept C](https://github.com/Dinoosawruss/Concept-C)
 
-In the future I wish to do a degree apprenticeship in Digital & Technology Solutions at IBM
-
 <details>
   <summary>Things I want to learn 🏫</summary>
   I always try and learn new things whether it be languages, technologies or libraries <br>
