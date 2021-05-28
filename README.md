@@ -7,7 +7,7 @@ I mostly work with Python and I really enjoy making Discord.py bots, I also work
 
 My biggest projects so far have been [StatMC](https://github.com/Dinoosawruss/StatMC) and [Automatic Smart Revise (Archived)](https://github.com/Dinoosawruss/Automatic-Smart-Revise)
 
-I am currently working on [Concept C](https://github.com/Dinoosawruss/Concept-C)
+I am currently working on A-Level Computer Science Coursework
 
 <details>
   <summary>Things I want to learn 🏫</summary>
