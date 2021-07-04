@@ -1,6 +1,6 @@
 ### Hi, my name is Michael 👋
-I am currently studying A-Levels in Computer Science, Maths, Politics and Law at sixth form,
-I mostly work with Python and I really enjoy making Discord.py bots, I also work with C# and Front-End Web Development however, I am using C# much more now as it is the language we primarily focus on at college.
+I am currently studying A-Levels in Computer Science, Maths, Politics and Law at sixth form, <br>
+I mostly work with .NET, Python, and Java. However, I am well versed in a variety of languages and generally consider myself a polyglot programmer.
 
 My biggest projects so far have been [StatMC](https://github.com/Dinoosawruss/StatMC) and [Automatic Smart Revise (Archived)](https://github.com/Dinoosawruss/Automatic-Smart-Revise)
 
