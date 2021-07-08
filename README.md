@@ -4,7 +4,7 @@ I mostly work with .NET, Python, and Java. However, I am well versed in a variet
 
 My biggest projects so far have been [StatMC](https://github.com/Dinoosawruss/StatMC) and [Automatic Smart Revise (Archived)](https://github.com/Dinoosawruss/Automatic-Smart-Revise)
 
-I am currently working on A-Level Computer Science Coursework
+I am currently working on A-Level Computer Science Coursework and a collaborative version controller project with a friend called [tig (tig isn't git)](https://github.com/Dinoosawruss/tig)
 
 Skills: Python, Java, C#, Databases, and Discord Bot Development
 
