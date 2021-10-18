@@ -39,4 +39,5 @@ Skills: Python, Java, C#, Databases, and Discord Bot Development
   - GitHub Universe 2020 <br>
   - Bebras 2020 <br>
   - British Informatics Olympiad 2021 <br>
+  - Hacktoberfest 2021<br>
 </details>
