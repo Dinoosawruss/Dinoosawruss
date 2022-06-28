@@ -1,15 +1,13 @@
 ### Hi, my name is Michael 👋
-I am currently studying A-Levels in Computer Science, Maths, Politics and Law at sixth form, <br>
-I mostly work with .NET, Python, and Java. However, I am well versed in a variety of languages and generally consider myself a polyglot programmer.
+I am an incoming Degree Apprentice at IBM!
 
-My biggest projects so far have been [StatMC](https://github.com/Dinoosawruss/StatMC) and [Automatic Smart Revise (Archived)](https://github.com/Dinoosawruss/Automatic-Smart-Revise)
+I am currently awaiting results for my A-Levels in Computer Science, Politics, Mathematics and Law. <br>
+I mostly work with .NET, Python, Go, and Java. However, I am well versed in a variety of languages and generally consider myself a polyglot programmer.
 
-I am currently working on A-Level Computer Science Coursework and contributing to open source projects
+My biggest projects so far have been my A-level Computer Science Coursework [(a Turing Machine Simulator)](https://github.com/Dinoosawruss/tm-sim), [StatMC (Arhived)](https://github.com/Dinoosawruss/StatMC) and [Automatic Smart Revise (Archived)](https://github.com/Dinoosawruss/Automatic-Smart-Revise)
 
-Skills: Python, Java, C#, Databases, and Discord Bot Development
-
-- 🔭 I’m currently working on my A-Level Computer Science project 
-- 🌱 I’m currently learning about Turing machines 
+- 🔭 I'm currently working on [MVRetailManager](https://github.com/MVRetailManager), which will be one of my most major projects yet
+- 🌱 I’m currently learning about Go and Blockchain
 - 😄 Pronouns: he/him 
 
 ---
