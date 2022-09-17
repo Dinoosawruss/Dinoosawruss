@@ -1,13 +1,12 @@
 ### Hi, my name is Michael 👋
-I am an incoming Degree Apprentice at IBM!
+I am an Degree Apprentice Software Engineer at IBM!
 
-I am currently awaiting results for my A-Levels in Computer Science, Politics, Mathematics and Law. <br>
-I mostly work with .NET, Python, Go, and Java. However, I am well versed in a variety of languages and generally consider myself a polyglot programmer.
+I mostly work with Java, .NET, Python, and Go. However, I am well versed in a variety of languages and generally consider myself a polyglot programmer.
 
 My biggest projects so far have been my A-level Computer Science Coursework [(a Turing Machine Simulator)](https://github.com/Dinoosawruss/tm-sim), [StatMC (Arhived)](https://github.com/Dinoosawruss/StatMC) and [Automatic Smart Revise (Archived)](https://github.com/Dinoosawruss/Automatic-Smart-Revise)
 
-- 🔭 I'm currently working on [MVRetailManager](https://github.com/MVRetailManager), which will be one of my most major projects yet
-- 🌱 I’m currently learning about Go and Blockchain
+- 🔭 I'm currently working on starting work at IBM
+- 🌱 I’m currently learning about mainframes and CICS
 - 😄 Pronouns: he/him 
 
 ---
